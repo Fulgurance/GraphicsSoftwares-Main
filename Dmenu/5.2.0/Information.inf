@@ -1,0 +1,19 @@
+PORT
+    GraphicsSoftwares-Main
+NAME
+    Dmenu
+VERSION
+    5.2.0
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Dynamic menu for X
+WEBSITE
+    https://tools.suckless.org/dmenu
+DEPENDENCIES
+        @XorgBase-Main:LibX11>=1.7.2
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES
